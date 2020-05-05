@@ -60,7 +60,7 @@ sections:
     subtitle: Check out what a few of our clients are saying.
     background: white
     reviews:
-      - author: Rotary Club of Fort Worth
+      - author: One of the largest social service organizations in the world
         avatar: images/review1.jpg
         content: We were at a standstill.  Couldn't vote on new members.  Club morale
           was low.  Since we started virtual meetings, our meeting attendance
