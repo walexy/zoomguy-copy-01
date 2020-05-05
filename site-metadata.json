@@ -1,8 +1,8 @@
 {
-  "title": "Zoom Guy",
+  "title": "Zoom Squad",
   "palette": "blue",
   "header": {
-    "title": "ZoomGuy",
+    "title": "Zoom Squad",
     "logo_img": "/images/zoomsquad-logo.svg",
     "has_nav": true,
     "nav_links": [
