@@ -65,7 +65,7 @@ sections:
         content: We were at a standstill.  Couldn't vote on new members.  Club morale
           was low.  Since we started virtual meetings, our meeting attendance
           has doubled and membership has actually increased!
-      - author: Sister Cities International
+      - author: Well-known International Nonprofit
         avatar: images/review2.jpg
         content: We were terrified to plan our first virtual international conference,
           but he Zoom Squad has come to our rescue, helping with plenary
