@@ -13,16 +13,17 @@ sections:
   - type: section_features
     title: Services
     section_id: features
-    subtitle: "Our team of experts can help you navigate virtual meetings for your
-      employees, clients or supporters of your cause.  Remember, your reputation
-      is your most valuable asset.  It only takes one poorly-run meeting to lose
-      volunteers, donors, or supporters. Zoom is a great choice for anyone who
-      wants a simple, powerful, cost-effective way to host online meetings,
-      events and webinars. Various pricing options are available, including a
-      free account that supports unlimited one-to-one meetings. Whether you're
-      an entrepreneur, small business owner, board chair, or a member of a large
-      organization, we're happy to help you get up and running with Zoom. Our
-      services include training and consulting on:"
+    subtitle: "Are you struggling to keep your employees, volunteers, and supporters
+      connected to your mission?  Our team of experts can help you navigate
+      virtual meetings for your key teams and stakeholders.  Remember, your
+      reputation is your most valuable asset.  It only takes one poorly-run
+      meeting to lose volunteers, donors, or supporters. Zoom is a great choice
+      for anyone who wants a simple, powerful, cost-effective way to host online
+      meetings, events and webinars. Various pricing options are available,
+      including a free account that supports unlimited one-to-one meetings.
+      Whether you're an entrepreneur, small business owner, board chair, or a
+      member of a large organization, we're happy to help you get up and running
+      with Zoom. Our services include training and consulting on:"
     background: gray
     features:
       - title: Features
