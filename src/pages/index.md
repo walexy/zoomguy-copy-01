@@ -71,10 +71,11 @@ sections:
           but he Zoom Squad has come to our rescue, helping with plenary
           sessions, elected officials, and breakout rooms.  They have been a
           God-send.
-      - author: Richard Roe
+      - author: Local Arts-related Nonprofit
         avatar: images/review3.jpg
-        content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        content: Our organization faced certain bankruptcy without our annual
+          fundraiser.  The Zoom Squad somehow created a live auction that raised
+          $50,000 for our cause!
   - type: section_cta
     title: This Is Call To Action Block!
     section_id: call-to-action
