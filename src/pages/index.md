@@ -31,7 +31,7 @@ sections:
           We can help you get up and running and support you as you navigate
           Zoom's extensive capabilities, including innovative features such as
           Breakout Rooms.
-        image: images/feature1.png
+        image: /images/feature1-vidpanel.png
         actions:
           - label: Learn More
             url: /features

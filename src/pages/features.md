@@ -45,7 +45,7 @@ sections:
 
 
       We just need a script. Our professionals can emcee, moderate Q&A, run the meeting/event: present slides, manage transitions, etc.Our goal is to make you look good.
-    image: images/feature1.png
+    image: /images/hero-03.png
     background: gray
     actions:
       - label: Free Trial
