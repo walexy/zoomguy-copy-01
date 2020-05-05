@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Transform your meetings and events with The Zoom Squad
+    title: TRANSFORM your meetings and events
     section_id: hero
     content: Our team of experts can help you navigate virtual meetings for your
       employees, clients or supporters of your cause.
