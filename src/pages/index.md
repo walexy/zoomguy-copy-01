@@ -77,11 +77,12 @@ sections:
           fundraiser.  The Zoom Squad somehow created a live auction that raised
           $50,000 for our cause!
   - type: section_cta
-    title: There are advantages of online meetings
+    title: The Longer You Wait...
     section_id: call-to-action
-    subtitle: More collaboration and engagement
+    subtitle: ...the more your competitors will engage your clients, donors, and
+      supporters.
     actions:
-      - label: Learn more
+      - label: Get Started
         url: /signup
   - type: section_posts
     title: Latest Posts
