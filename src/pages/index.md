@@ -65,11 +65,12 @@ sections:
         content: We were at a standstill.  Couldn't vote on new members.  Club morale
           was low.  Since we started virtual meetings, our meeting attendance
           has doubled and membership has actually increased!
-      - author: Jane Roe
+      - author: Sister Cities International
         avatar: images/review2.jpg
-        content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+        content: We were terrified to plan our first virtual international conference,
+          but he Zoom Squad has come to our rescue, helping with plenary
+          sessions, elected officials, and breakout rooms.  They have been a
+          God-send.
       - author: Richard Roe
         avatar: images/review3.jpg
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
