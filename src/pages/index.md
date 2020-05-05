@@ -5,7 +5,7 @@ sections:
     title: TRANSFORM your meetings and events
     section_id: hero
     content: Our team of experts can help you navigate virtual meetings for your
-      employees, clients or supporters of your cause.
+      employees, clients, and champions of your cause.
     image: /images/hero-04.png
     actions:
       - label: Learn More
