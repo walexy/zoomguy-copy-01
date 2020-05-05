@@ -11,39 +11,45 @@ sections:
       - label: Learn More
         url: /features
   - type: section_features
-    title: Features
+    title: Services
     section_id: features
-    subtitle: We're well versed in Zoom's feature set and continue to provide the
-      folks at Zoom with feedback on how to make their product even better. We
-      can help you get up and running and support you as you navigate Zoom's
-      extensive capabilities, including innovative features such as Breakout
-      Rooms.
+    subtitle: "Our team of experts can help you navigate virtual meetings for your
+      employees, clients or supporters of your cause.  Remember, your reputation
+      is your most valuable asset.  It only takes one poorly-run meeting to lose
+      volunteers, donors, or supporters. Zoom is a great choice for anyone who
+      wants a simple, powerful, cost-effective way to host online meetings,
+      events and webinars. Various pricing options are available, including a
+      free account that supports unlimited one-to-one meetings. Whether you're
+      an entrepreneur, small business owner, board chair, or a member of a large
+      organization, we're happy to help you get up and running with Zoom. Our
+      services include training and consulting on:"
     background: gray
     features:
-      - title: Best Practices
-        content: We've used Zoom for hundreds of online meetings, workshops and courses.
-          We're happy to work with you to help deliver online offerings that are
-          engaging and impactful.
+      - title: Features
+        content: We're well versed in Zoom's feature set and continue to provide the
+          folks at Zoom with feedback on how to make their product even better.
+          We can help you get up and running and support you as you navigate
+          Zoom's extensive capabilities, including innovative features such as
+          Breakout Rooms.
         image: images/feature1.png
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
-        content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+      - title: Best Practices
+        content: We've used Zoom for hundreds of online meetings, workshops and courses.
+          We're happy to work with you to help deliver online offerings that are
+          engaging and impactful.
         image: images/feature2.png
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
-        content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+      - title: Down and Dirty Tips
+        content: Get the latest insights and tips on hosting remote meetings with Zoom,
+          tools, and techniques.
         image: images/feature3.png
         actions:
           - label: Learn More
-            url: /features
+            url: /blog
   - type: section_reviews
     title: Testimonials
     section_id: reviews
