@@ -26,11 +26,10 @@ sections:
     background: gray
     features:
       - title: Features
-        content: We're well versed in Zoom's feature set and continue to provide the
-          folks at Zoom with feedback on how to make their product even better.
-          We can help you get up and running and support you as you navigate
-          Zoom's extensive capabilities, including innovative features such as
-          Breakout Rooms.
+        content: Our Zoom Squad can get you up and running quickly, helping navigate
+          Zoom's extensive capabilities, unlocking the power of innovative
+          features such as Breakout Rooms, Polling, ScreenShare and
+          Whiteboarding.
         image: /images/feature1-vidpanel.png
         actions:
           - label: Learn More
