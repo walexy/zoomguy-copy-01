@@ -57,14 +57,14 @@ sections:
   - type: section_reviews
     title: Testimonials
     section_id: reviews
-    subtitle: "Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. "
+    subtitle: Check out what a few of our clients are saying.
     background: white
     reviews:
-      - author: John Doe
+      - author: Rotary Club of Fort Worth
         avatar: images/review1.jpg
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: We were at a standstill.  Couldn't vote on new members.  Club morale
+          was low.  Since we started virtual meetings, our meeting attendance
+          has doubled and membership has actually increased!
       - author: Jane Roe
         avatar: images/review2.jpg
         content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
