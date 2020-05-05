@@ -6,7 +6,7 @@ sections:
     section_id: hero
     content: Our team of experts can help you navigate virtual meetings for your
       employees, clients or supporters of your cause.
-    image: images/hero.png
+    image: /images/hero-04.png
     actions:
       - label: Learn More
         url: /features
