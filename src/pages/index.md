@@ -71,11 +71,11 @@ sections:
         content: Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
-    title: This Is Call To Action Block!
+    title: There are advantages of online meetings
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: More collaboration and engagement
     actions:
-      - label: Get Started
+      - label: Learn more
         url: /signup
   - type: section_posts
     title: Latest Posts

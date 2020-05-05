@@ -53,9 +53,9 @@ sections:
       - label: View Demo
         url: "#"
   - type: section_cta
-    title: This Is Call to Action Block!
+    title: Be the Hero
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Get more done with greater collaboration
     actions:
       - label: Get Started
         url: "#"
