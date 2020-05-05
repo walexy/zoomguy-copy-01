@@ -35,16 +35,21 @@ sections:
           - label: Learn More
             url: /features
       - title: Best Practices
-        content: We've used Zoom for hundreds of online meetings, workshops and courses.
-          We're happy to work with you to help deliver online offerings that are
-          engaging and impactful.
+        content: Our mission is to make you look good.  We've used Zoom for hundreds of
+          online meetings, workshops and courses, and we deliver online
+          offerings that are engaging, meaningful, and insightful.
         image: images/feature2.png
         actions:
           - label: Learn More
             url: /features
-      - title: Down and Dirty Tips
-        content: Get the latest insights and tips on hosting remote meetings with Zoom,
-          tools, and techniques.
+      - title: All Sorts of Solutions
+        content: >-
+          Need to call a vote at a meeting?  We've got you covered.  Have an
+          important presentation with slides and video?  Check.  Looking for a
+          professional to host and facilitate a workshop or gathering.  Done.  
+
+
+          Learn how.  Learn now.
         image: images/feature3.png
         actions:
           - label: Learn More
