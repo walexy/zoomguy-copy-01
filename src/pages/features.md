@@ -39,10 +39,10 @@ sections:
       As your event begins, your Zoom Squad host will ensure all presenters are welcomed, audio levels are checked, flow is set, and everyone is ready for a great experience.
 
 
-      **Full Event Moderation: Q&A, transitions, content sharing**
+      **Full Event Moderation**
 
 
-      We just need a script. Our professionals can emcee, moderate Q&A, run the meeting/event: present slides, manage transitions, etc.Our goal is to make you look good.
+      We just need a script. Our professionals can emcee, moderate Q&A, run the meeting/event, present slides, manage transitions, etc.  Our goal is to make you look good.
     image: /images/hero-03.png
     background: gray
     actions:
