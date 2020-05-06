@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Exceptional events.  Meetings that matter.
+    title: Exceptional events.  Magnificent meetings.
     section_id: hero
     content: Our team of experts can help you navigate virtual events and meetings
       for your employees, clients, and champions of your cause.
