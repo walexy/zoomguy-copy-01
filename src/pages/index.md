@@ -80,7 +80,7 @@ sections:
   - type: section_cta
     title: This is the New Normal
     section_id: call-to-action
-    subtitle: "How are you going to respond?  "
+    subtitle: Don't just survive, but THRIVE, in today's business environment.
     actions:
       - label: Get Started
         url: /signup
