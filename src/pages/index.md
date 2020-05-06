@@ -5,7 +5,8 @@ sections:
     title: Exceptional events. Magnificent meetings.
     section_id: hero
     content: Our team of experts can help you navigate virtual events and meetings
-      for your employees, clients, and champions of your cause.
+      for your employees, clients, supporters, constituents, and champions of
+      your cause.
     image: /images/hero-04.png
     actions:
       - label: Learn More
