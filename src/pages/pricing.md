@@ -4,7 +4,7 @@ sections:
   - type: section_pricing
     title: Pricing Plans
     section_id: pricing
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: All plans are customizable
     background: gray
     pricing_plans:
       - title: Basic Production
