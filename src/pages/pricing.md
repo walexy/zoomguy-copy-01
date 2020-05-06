@@ -61,13 +61,13 @@ sections:
 
           * Security Analysis (60 minutes)
 
-          * Meeting planning (60 minutes) 
+          * Meeting planning (60 minutes)  
 
-          * Live event support (60 minutes) 
+          * Live event support (60 minutes)  
 
-          * Virtual Meeting Rehearsal (60 minutes) 
+          * Virtual Meeting Rehearsal (60 minutes)  
 
-          * Pre-event “Green Room” (30 minutes) 
+          * Pre-event “Green Room” (30 minutes)  
 
           * Full event moderation (up to 2 hrs)
         actions:
