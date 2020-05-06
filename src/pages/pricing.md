@@ -39,7 +39,7 @@ sections:
           We’ll assist with setup and rehearsal, making featured and important guests feel welcome.
 
 
-          * Security Analysis (60 minutes) Meeting planning (60 minutes)
+          * Security Analysis Meeting planning (60 minutes)
 
           * Live event support (60 minutes)
 
