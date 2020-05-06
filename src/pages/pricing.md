@@ -13,10 +13,10 @@ sections:
           Up to 100 attendees
 
 
-          We’ll help set it up and you take the lead.Perfect for committee and board meetings.
+          We’ll help set it up and you take the lead. Perfect for committee and board meetings.
 
 
-          * Security Analysis (60 minutes)
+          * Security Analysis
 
           * Meeting planning (60 minutes)
 
