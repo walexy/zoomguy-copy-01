@@ -12,31 +12,31 @@ sections:
       **Security Analysis**
 
 
-      You may have heard about the recent trend of “Zoombombing” by unwelcome visitors and hackers. We review your options and settings to protect your meeting flow, content, invited guests, and most importantly, your reputation.
+      We review your settings to plan against “Zoom bombing” by unwelcome visitors and hackers, protecting your meeting flow, content, guests, and most importantly, your reputation.
 
 
       **Meeting planning**
 
 
-      Having a solid plan will set up your event for success.We consult with you one-on-one to understand your meeting purpose and intended takeaways to build an appropriate meeting flow. Our experienced staff can assist with content and flow.
+      We consult with you understand your company culture and intended takeaways to build an appropriate content and flow. 
 
 
       **Live event support**
 
 
-      During your event, your Zoom consultant will provide real-time technical support for presenters and panelists, as well as other participants.
+      During your event, your Zoom Squad consultant will provide real-time technical support for presenters, panelists, and participants.
 
 
       **Virtual Meeting Rehearsal**
 
 
-      Prior to your event, we’ll schedule a virtual walk-through to test technology, transitions, and address questions to ensure the whole team feels prepared.
+      Prior to your event, we’ll schedule a virtual walk-through to test technology and transitions so the whole team feels prepared.
 
 
       **Pre-event “Green Room”**
 
 
-      As your event begins, your Zoom Squad host will ensure all presenters are logged in, welcomed, audio levels are checked, flow is set, and everyone is ready for a great meeting.
+      As your event begins, your Zoom Squad host will ensure all presenters are welcomed, audio levels are checked, flow is set, and everyone is ready for a great experience.
 
 
       **Full Event Moderation: Q&A, transitions, content sharing**
