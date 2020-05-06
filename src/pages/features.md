@@ -5,10 +5,8 @@ sections:
     title: Features
     section_id: features
     content: >-
-      We know Zoom inside-out, having used it for hundreds of online meetings,
-      workshops and courses since adopting this solution in 2013. We work with
-      individuals and organizations to help them enhance their communications
-      using Zoom.
+      Our Zoom Squad experts have a proven method, to help individuals and
+      organizations enhance their communications.
 
 
       **Security Analysis**
