@@ -78,10 +78,9 @@ sections:
           fundraiser.  The Zoom Squad somehow created a live auction that raised
           $50,000 for our cause!
   - type: section_cta
-    title: The Longer You Wait...
+    title: This is the New Normal
     section_id: call-to-action
-    subtitle: ...the more your competitors will engage your clients, donors, and
-      supporters.
+    subtitle: Don't get left behind.
     actions:
       - label: Get Started
         url: /signup
