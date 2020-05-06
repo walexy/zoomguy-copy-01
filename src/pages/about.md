@@ -1,7 +1,6 @@
 ---
 title: About Us
-subtitle: This is an optional subtitle. It can be used to describe what this
-  page is about.
+subtitle: Meet our world class leadership team
 image: images/about.jpg
 template: page
 ---
