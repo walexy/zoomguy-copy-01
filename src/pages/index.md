@@ -49,7 +49,7 @@ sections:
           professional to host and facilitate a workshop or gathering.  Done.  
 
 
-          Learn how.  Learn now.
+          Discover how.  Discover now.
         image: images/feature3.png
         actions:
           - label: Learn More
