@@ -80,7 +80,7 @@ sections:
   - type: section_cta
     title: This is the New Normal
     section_id: call-to-action
-    subtitle: Don't get left behind.
+    subtitle: "How are you going to respond?  "
     actions:
       - label: Get Started
         url: /signup
