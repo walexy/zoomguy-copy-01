@@ -19,7 +19,7 @@ Remote learning is doing the same thing, but in real life. This presents unexpec
 
 > The intimacy of the format is surprising—we have a tendency of thinking of these tools as being alienating because they lack what we view as “true” human presence. But I am getting a closer view of my students than I ever have before. I can see their breathing up close. Their facial muscles. The placement of their tongue. I see their homes. Their childhood bedrooms. The inside of their cars. Their backyards. Their kitchens. Their pets. Their families. They come early to the Zoom rooms and they stay late. And they have been giving their all. Not in spite of the Pandemic. But because of it.
 
-As a facilitator you're directing an expereince that can foster intimacy and learning. Orson Wells understood this when crafting this shot from Citizen Kane. The camera view shows us everything, even the background is in sharp view. It gives us all the context we need to know, a little boy is enjoying his improvished life while his mother Agnes signs his guardanship over to the state.
+As a facilitator you're directing an expereince that can foster intimacy and learning. Orson Wells understood this when crafting a notable shot in Citizen Kane. The camera view shows us everything, even the background is in sharp view. It gives us all the context we need to know. In  the background, through a window we see a little boy  enjoying his improvished life while his mother Agnes signs his guardanship over to the state.
 
 Unlike a movie director, you can't control every aspect the experience, but you do have control, and permission from your audience to to manage the experience. Stay open to unexpected opportunties and look for deeper connections that you can make with others.
 
