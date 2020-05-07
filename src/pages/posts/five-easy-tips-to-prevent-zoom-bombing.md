@@ -1,7 +1,8 @@
 ---
 title: Five Easy Tips to Prevent Zoom Bombing
 date: 2020-05-07T14:10:25.468Z
-image: /images/blackspyyy.jpg
+image: /images/spyvsspyvszoom.png
+thumb_image: /images/spyvsspyvszoom.png
 template: post
 ---
 1. Don’t use your personal meeting ID\
