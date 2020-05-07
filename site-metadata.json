@@ -7,21 +7,33 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "Home",
-        "url": "/"
-      },
-      {
         "label": "Features",
         "url": "/features"
+      },
+      {
+        "new_window": false,
+        "label": "Meetings",
+        "url": "/meetings"
+      },
+      {
+        "new_window": false,
+        "label": "Academics",
+        "url": "/academics"
+      },
+      {
+        "new_window": false,
+        "label": "Collaboration",
+        "url": "/collaboration"
       },
       {
         "label": "Pricing",
         "url": "/pricing"
       },
       {
-        "label": "Sign Up",
+        "label": "Tell me more",
         "url": "/signup",
-        "primary": true
+        "primary": true,
+        "new_window": false
       }
     ]
   },
