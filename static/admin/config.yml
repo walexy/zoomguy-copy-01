@@ -740,6 +740,11 @@ collections:
                 label: Subtitle
                 required: false
                 hint: The subtitle of the section
+              - widget: string
+                name: tagline
+                label: Tagline
+                required: false
+                hint: The tagline of the section
               - widget: select
                 name: background
                 label: Background

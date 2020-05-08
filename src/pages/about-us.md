@@ -64,9 +64,10 @@ sections:
           variety of leadership roles including Design, Information Technology,
           Product Management, and currently User Experience & Innovation.
     title: About Us
-    subtitle: Meet our world class team We know Zoom inside-out, having used it for
-      hundreds of online meetings, workshops and courses since adopting this
-      solution in 2013. We work with individuals and organizations to help them
-      enhance their communications using Zoom.
+    subtitle: Meet our world class team
+    tagline: We know Zoom inside-out, having used it for hundreds of online
+      meetings, workshops and courses since adopting this solution in 2013. We
+      work with individuals and organizations to help them enhance their
+      communications using Zoom.
 template: landing
 ---

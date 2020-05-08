@@ -494,6 +494,10 @@ models:
         name: subtitle
         label: Subtitle
         description: The subtitle of the section
+      - type: string
+        name: tagline
+        label: Tagline
+        description: The tagline of the section
       - type: enum
         name: background
         label: Background

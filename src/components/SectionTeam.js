@@ -10,11 +10,16 @@ export default class SectionTeam extends React.Component {
             <section id={_.get(section, 'section_id')} className={'block team-block bg-' + _.get(section, 'background') + ' outer'}>
                 <div className="block-header inner-small">
                     {_.get(section, 'title') &&
-                        <h2 className="block-title">{_.get(section, 'title')}</h2>
+                        <h2 className="block-title underline">{_.get(section, 'title')}</h2>
                     }
                     {_.get(section, 'subtitle') &&
                         <p className="block-subtitle">
                             {htmlToReact(_.get(section, 'subtitle'))}
+                        </p>
+                    }
+                    {_.get(section, 'tagline') &&
+                        <p className="block-tagline">
+                            {htmlToReact(_.get(section, 'tagline'))}
                         </p>
                     }
                 </div>
@@ -29,7 +34,7 @@ export default class SectionTeam extends React.Component {
                                             <img className="team-avatar" src={safePrefix(_.get(member, 'avatar'))} alt="Team avatar" />
                                         }
                                         <div className="team-bio">
-                                            <cite className="team-author">{_.get(member, 'author')}</cite>
+                                            <cite className="team-author">{_.get(member, 'member')}</cite>
                                             <p className="team-text">{htmlToReact(_.get(member, 'content'))}</p>
                                             <footer className="team-footer">
 
