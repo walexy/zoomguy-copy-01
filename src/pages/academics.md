@@ -9,7 +9,7 @@ sections:
       aren't just applicable to learning remotely. They work inside and out of
       the classrom.
     image: /images/staging.svg
-    title: Academics
+    title: Education
   - type: section_contact
     background: gray
     title: Tell me more
