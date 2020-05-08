@@ -719,6 +719,61 @@ collections:
                   Name of the Stackbit object model, used by fields of type
                   reference
                 default: section_reviews
+          - name: section_team
+            widget: object
+            label: Team Section
+            fields:
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of the section
+              - widget: string
+                name: section_id
+                label: Element ID
+                required: false
+                hint: >-
+                  Element ID can be used in links to scroll the page to this
+                  section when link clicked
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section
+              - widget: select
+                name: background
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section
+                options:
+                  - gray
+                  - white
+              - widget: list
+                name: member
+                label: Member
+                required: false
+                fields:
+                  - widget: string
+                    name: member
+                    label: Team member
+                    required: false
+                  - widget: image
+                    name: avatar
+                    label: Avatar
+                    required: false
+                  - widget: text
+                    name: content
+                    label: Content
+                    required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_team
           - name: section_contact
             widget: object
             label: Contact Section
