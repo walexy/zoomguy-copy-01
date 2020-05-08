@@ -750,7 +750,7 @@ collections:
                   - gray
                   - white
               - widget: list
-                name: member
+                name: members
                 label: Member
                 required: false
                 fields:
