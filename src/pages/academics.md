@@ -6,8 +6,8 @@ sections:
     content: Remote learning works best when you engage your students and isn't that
       the way it should have always been? Learn the techniques we use in remote
       acting classes and acedemics to keep students fully engaged. These skills
-      aren't just applicable to to elarning remotely. They work inside and out
-      of the classrom.
+      aren't just applicable to learning remotely. They work inside and out of
+      the classrom.
     image: /images/staging.svg
     title: Academics
   - type: section_contact
