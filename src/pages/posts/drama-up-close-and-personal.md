@@ -7,7 +7,7 @@ image: /images/citizen-kane.jpg
 thumb_image: /images/citizenkane_rosebud.jpg
 template: post
 ---
-Uncomfortably close is one way to describe the opening scene in Citizen Kane. Orson wells tightens the camera close to a dying man's lips, so that we can hear him whisper, "Rosebud" into an eager jouranlist's ear. The film was remarkable for its time. Orsen Wells brought the camera into areas once private, that normal people didnt experience in film.
+Uncomfortably close is one way to describe the opening scene in Citizen Kane. Orson Wells tightens the camera close to a dying man's lips, so that we can hear him whisper, "Rosebud" into an eager jouranlist's ear. The film was remarkable for its time. Orson Wells brought the camera into areas once private, that normal people didnt experience in film.
 
 Remote learning is doing the same thing, but in real life. This presents unexpected challengeds and opportunities. Here's what [Jennifer Pierce, PhD](/about) has to say when teaching acting this semester:
 

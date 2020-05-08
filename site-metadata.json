@@ -31,7 +31,7 @@
       },
       {
         "label": "Tell me more",
-        "url": "/signup",
+        "url": "/features",
         "primary": true,
         "new_window": false
       }

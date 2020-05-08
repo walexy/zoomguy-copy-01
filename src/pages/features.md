@@ -46,10 +46,8 @@ sections:
     image: /images/hero-03.png
     background: gray
     actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: "#"
+      - label: Shoot us a question
+        url: /contact
   - type: section_cta
     title: Be the Hero
     section_id: call-to-action
