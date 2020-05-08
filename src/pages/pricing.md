@@ -29,7 +29,7 @@ sections:
           * ~~Full event moderation (up to 2 hrs)~~
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
       - title: Premiere Production
         price: $1995
         details: >-
@@ -51,7 +51,7 @@ sections:
         highlight: true
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
       - title: Platinum Production
         price: $3995
         details: >-
@@ -72,7 +72,7 @@ sections:
           * Full event moderation (up to 2 hrs)
         actions:
           - label: Order Now
-            url: /signup
+            url: /contact
   - type: section_faq
     title: Frequently Asked Questions
     section_id: faq

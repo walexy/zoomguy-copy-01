@@ -81,12 +81,14 @@
         "url": "/blog"
       },
       {
-        "label": "Sign Up",
-        "url": "signup"
+        "new_window": true,
+        "label": "Pricing",
+        "url": "/pricing"
       },
       {
         "label": "Contact",
-        "url": "/contact"
+        "url": "/contact",
+        "new_window": false
       }
     ],
     "has_nav": true
