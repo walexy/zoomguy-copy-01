@@ -35,7 +35,7 @@ sections:
 
           We advise all presenters on wardrobe, stage mannerisms, creative ways to connect with the audience, and other tips we've learned through other events we've hosted.
     title: Frequently Asked Questions
-    section_id: Frequently Asked Questions
+    section_id: ""
     subtitle: Frequently Asked Questions
   - type: section_content
     title: Features
