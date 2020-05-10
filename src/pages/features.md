@@ -8,35 +8,6 @@ sections:
     actions:
       - label: Get Started
         url: "#"
-  - type: section_faq
-    background: gray
-    faq_items:
-      - question: Why should we consider using virtual elements, even if we're planning
-          an in-person, live elements?
-        answer: >-
-          Do you rely on "in-person" events to sustain membership, meet budget,
-          or keep your champions connected to your mission?  If so, you need a
-          Plan B. 
-
-
-          The planning and promotion of your live event could quickly come to a screeching halt, as we've seen in a very abrupt and public way.  Incorporating virtual elements (keynote, auction, interactive elements, etc.) safeguard your budget, reputation, and in some cases, the future or your organization.
-      - question: What if something goes wrong during my virtual event?
-        answer: We've all seen things go wrong - power goes out, video doesn't load,
-          choppy microphone, to name a few.  We focus on contingency solutions
-          up front — a full run-through rehearsal before the event, back
-          channels to communicate behind the scenes, live technician support,
-          pre-recorded audio and video options, and more.
-      - question: What are some best practices for presenters at virtual events?
-        answer: >-
-          Be prepared.  A presenter’s effectiveness can make or break the
-          attendee experience, and train them on how the platform works and what
-          to expect during the live event.
-
-
-          We advise all presenters on wardrobe, stage mannerisms, creative ways to connect with the audience, and other tips we've learned through other events we've hosted.
-    title: Frequently Asked Questions
-    section_id: ""
-    subtitle: Frequently Asked Questions
   - type: section_content
     title: Features
     section_id: features
@@ -84,5 +55,34 @@ sections:
     actions:
       - label: Shoot us a question
         url: /contact
+  - type: section_faq
+    background: gray
+    faq_items:
+      - question: Why should we consider using virtual elements, even if we're planning
+          an in-person, live elements?
+        answer: >-
+          Do you rely on "in-person" events to sustain membership, meet budget,
+          or keep your champions connected to your mission?  If so, you need a
+          Plan B. 
+
+
+          The planning and promotion of your live event could quickly come to a screeching halt, as we've seen in a very abrupt and public way.  Incorporating virtual elements (keynote, auction, interactive elements, etc.) safeguard your budget, reputation, and in some cases, the future or your organization.
+      - question: What if something goes wrong during my virtual event?
+        answer: We've all seen things go wrong - power goes out, video doesn't load,
+          choppy microphone, to name a few.  We focus on contingency solutions
+          up front — a full run-through rehearsal before the event, back
+          channels to communicate behind the scenes, live technician support,
+          pre-recorded audio and video options, and more.
+      - question: What are some best practices for presenters at virtual events?
+        answer: >-
+          Be prepared.  A presenter’s effectiveness can make or break the
+          attendee experience, and train them on how the platform works and what
+          to expect during the live event.
+
+
+          We advise all presenters on wardrobe, stage mannerisms, creative ways to connect with the audience, and other tips we've learned through other events we've hosted.
+    title: Frequently Asked Questions
+    section_id: ""
+    subtitle: Frequently Asked Questions
 template: landing
 ---
