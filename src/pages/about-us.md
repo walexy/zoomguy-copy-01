@@ -34,7 +34,7 @@ sections:
           variety of leadership roles including Design, Information Technology,
           Product Management and currently User Experience & Innovation.
     members:
-      - member: Carlo Caua
+      - member: Carlo Capua
         content: Carlo Capua is an award-winning social entrepreneur, endurance athlete,
           and world traveler. Fluent in Spanish and Japanese, he’s completed an
           Ironman Triathlon and 18 marathons (including one in North
