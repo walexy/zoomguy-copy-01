@@ -56,13 +56,6 @@ sections:
           communication consultation as well as guiding executives in turning
           social data into business intelligence.
         avatar: /images/pierce.jpg
-      - member: Andy Davis
-        avatar: /images/davis.jpg
-        content: For the past 20 years, Andy Davis has been involved in the creation and
-          delivery of both digital and physical products within the Awards and
-          Recognition industry. Over the course of his career, he’s served in a
-          variety of leadership roles including Design, Information Technology,
-          Product Management, and currently User Experience & Innovation.
     title: About Us
     subtitle: Meet our world class team
     tagline: We know Zoom inside-out, having used it for hundreds of online
