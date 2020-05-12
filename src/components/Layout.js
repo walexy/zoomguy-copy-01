@@ -17,7 +17,7 @@ export default class Body extends React.Component {
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
-                    <meta property='og:image' content={_.get(this.props, 'pageContext.site.siteMetadata.url') + _.get(this.props, 'pageContext.frontmatter.image') + '?v=02'} />
+                    <meta property='og:image' content={_.get(this.props, 'pageContext.site.siteMetadata.url') + _.get(this.props, 'pageContext.frontmatter.image')} />
                     <meta property='og:locale' content='en_US' />
                     <meta property='og:type' content='website' />
                     <meta property='og:title' content={_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - ' + _.get(this.props, 'pageContext.site.siteMetadata.title')} />
