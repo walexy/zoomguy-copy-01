@@ -41,10 +41,7 @@ models:
           - green
           - orange
         default: blue
-      
-      - type: social
-        name: Social Media Sharing
-        label: Social Media Sharing Configuration
+
       - type: header
         name: header
         label: Header Configuration
@@ -141,15 +138,6 @@ models:
         description: A list of links displayed in the footer
         items:
           type: action
-  social:
-    type: object
-    label: Social Sharing Configuration
-    labelField: socialImage
-    fields:
-      - type: image
-        name: social_img
-        label: Social Banner
-        description: The image displayed in social posts
   landing:
     type: page
     label: Landing Page
@@ -242,6 +230,10 @@ models:
         name: thumb_image
         label: Blog Feed Image
         description: The image shown in the blog feed
+      - type: image
+        name: fb_cover_image
+        label: Facebook Cover Image
+        description: The image shown in the Facebook shares
   section:
     type: object
     label: Section

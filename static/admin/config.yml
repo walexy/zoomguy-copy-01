@@ -914,6 +914,11 @@ collections:
         required: false
         hint: The image shown below the title
       - widget: image
+        name: fb_cover_image
+        label: Facebook Cover Image
+        required: false
+        hint: The image shown in the Facebook shares
+      - widget: image
         name: thumb_image
         label: Blog Feed Image
         required: false
