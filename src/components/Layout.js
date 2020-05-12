@@ -20,9 +20,9 @@ export default class Body extends React.Component {
                     <meta property="fb:app_id" content={_.get(this.props, 'pageContext.site.siteMetadata.fb_app_id')} />
                     <meta property='og:image' content={_.get(this.props, 'pageContext.site.siteMetadata.url') + _.get(this.props, 'pageContext.frontmatter.image')} />
                     <meta property='og:locale' content='en_US' />
-                    <meta property='og:type' content='website' />
+                    <meta property='og:type' content='article' />
                     <meta property='og:title' content={_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - ' + _.get(this.props, 'pageContext.site.siteMetadata.title')} />
-                    <meta property='og:description' content={_.get(this.props, 'pageContext.site.siteMetadata.description')} />
+                    <meta property='og:description' content={_.get(this.props, 'pageContext.frontmatter.subtitle') || _.get(this.props, 'pageContext.site.siteMetadata.description')} />
                     <meta property='og:url' content={_.get(this.props, 'pageContext.site.siteMetadata.url')} />
                     <meta property='og:updated_time' content='2019-04-31' />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
