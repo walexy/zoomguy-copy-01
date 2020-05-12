@@ -20,10 +20,10 @@ export default class Body extends React.Component {
                     <meta property='og:image' content={_.get(this.props, 'pageContext.frontmatter.image')} />
                     <meta property='og:locale' content='en_US' />
                     <meta property='og:type' content='website' />
-                    <meta property='og:title' content='Whatever' />
+                    <meta property='og:title' content={_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - ' + _.get(this.props, 'pageContext.site.siteMetadata.title')} />
                     <meta property='og:description' content="Description" />
                     <meta property='og:url' content='https://thezoomsquad.com' />
-                    <meta property='og:updated_time' content='2019-01-31' />
+                    <meta property='og:updated_time' content='2019-04-31' />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                 </Helmet>
