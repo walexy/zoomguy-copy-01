@@ -9,15 +9,15 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Azimuth
+  title: The Zoom Squad
   description: A sleek SaaS theme
   author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  authorURL: 'https://alexy19.design'
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
 stackbit_banner:
-  show_banner: true
+  show_banner: false
   name: Azimuth
   create_url: 'https://app.stackbit.com/create?theme=azimuth'
   github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
@@ -41,6 +41,10 @@ models:
           - green
           - orange
         default: blue
+      
+      - type: social
+        name: Social Media Sharing
+        label: Social Media Sharing Configuration
       - type: header
         name: header
         label: Header Configuration
@@ -137,6 +141,15 @@ models:
         description: A list of links displayed in the footer
         items:
           type: action
+  social:
+    type: object
+    label: Social Sharing Configuration
+    labelField: socialImage
+    fields:
+      - type: image
+        name: social_img
+        label: Social Banner
+        description: The image displayed in social posts
   landing:
     type: page
     label: Landing Page

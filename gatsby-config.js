@@ -2,8 +2,16 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
     plugins: [
+        {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+                // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+                trackingId: "UA-166294016-1",
+            }
+        },
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
+        `gatsby-plugin-next-seo`,
         `gatsby-plugin-netlify-cms`,
         {
             resolve: `gatsby-source-filesystem`,
