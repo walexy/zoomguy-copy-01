@@ -18,7 +18,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta property="fb:app_id" content={_.get(this.props, 'pageContext.site.siteMetadata.fb_app_id')} />
-                    <meta property='og:image' content={_.get(this.props, 'pageContext.site.siteMetadata.url') + _.get(this.props, 'pageContext.frontmatter.image') + '?v=03'} />
+                    <meta property='og:image' content={_.get(this.props, 'pageContext.site.siteMetadata.url') + _.get(this.props, 'pageContext.frontmatter.image')} />
                     <meta property='og:locale' content='en_US' />
                     <meta property='og:type' content='website' />
                     <meta property='og:title' content={_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - ' + _.get(this.props, 'pageContext.site.siteMetadata.title')} />
