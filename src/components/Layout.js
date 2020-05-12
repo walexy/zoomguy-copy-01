@@ -6,6 +6,7 @@ import {safePrefix} from '../utils';
 
 import Header from './Header';
 import Footer from './Footer';
+// {_.get(this.props, 'pageContext.frontmatter.ogimage')}
 
 export default class Body extends React.Component {
     render() {
@@ -16,7 +17,13 @@ export default class Body extends React.Component {
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
-                    <meta property="og:image" content={_.get(this.props, 'pageContext.frontmatter.ogimage')} />
+                    <meta property='og:image' content={_.get(this.props, 'pageContext.frontmatter.image')} />
+                    <meta property='og:locale' content='en_US' />
+                    <meta property='og:type' content='website' />
+                    <meta property='og:title' content='Whatever' />
+                    <meta property='og:description' content="Description" />
+                    <meta property='og:url' content='https://thezoomsquad.com' />
+                    <meta property='og:updated_time' content='2019-01-31' />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                 </Helmet>

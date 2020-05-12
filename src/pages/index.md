@@ -1,5 +1,6 @@
 ---
 title: Home
+image: /images/The-Zoom-Squad-Social-Media-Card.png
 sections:
   - type: section_hero
     title: Exceptional events. Magnificent meetings.
