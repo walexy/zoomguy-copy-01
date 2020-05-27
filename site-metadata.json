@@ -1,14 +1,7 @@
 {
-  "title": "Zoom Squad",
-  "palette": "blue",
-  "titleTemplate": "%s · The Real Hero",
-  "description": "Exceptional events. Magnificent meetings.",
-  "fb_app_id": "246568176555242",
-  "url": "https://thezoomsquad.com",
-  "image": "/images/The-Zoom-Squad-Social-Media-Card.png",
   "header": {
     "title": "Zoom Squad",
-    "logo_img": "/images/zoomsquad-logo.svg",
+    "logo_img": "/images/MeetingSquad Logo.svg",
     "has_nav": true,
     "nav_links": [
       {
@@ -42,6 +35,10 @@
       }
     ]
   },
+  "url": "https://themeetingsquad.com",
+  "titleTemplate": "%s · The Real Hero",
+  "title": "The Meeting Squad",
+  "image": "/images/The-Meeting-Squad-Social-Media-Card.png",
   "footer": {
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
@@ -65,7 +62,7 @@
       }
     ],
     "tagline": "Transform your meetings and events ",
-    "logo_img": "/images/zoomsquad-logo.svg",
+    "logo_img": "/images/MeetingSquad Logo.svg",
     "has_social": false,
     "content": "&copy; ZoomSquad. All rights reserved.",
     "links": [
@@ -97,5 +94,8 @@
       }
     ],
     "has_nav": true
-  }
+  },
+  "palette": "blue",
+  "fb_app_id": "246568176555242",
+  "description": "Exceptional events. Magnificent meetings."
 }
