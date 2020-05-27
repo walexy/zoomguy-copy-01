@@ -12,7 +12,7 @@ sections:
     title: Features
     section_id: features
     content: >-
-      Our Zoom Squad experts have a proven method, to help individuals and
+      Our Meeting Squad experts have a proven method, to help individuals and
       organizations enhance their communications.
 
 
@@ -31,7 +31,7 @@ sections:
       **Live event support**
 
 
-      During your event, your Zoom Squad consultant will provide real-time technical support for presenters, panelists, and participants.
+      During your event, your Meeting Squad consultant will provide real-time technical support for presenters, panelists, and participants.
 
 
       **Virtual Meeting Rehearsal**
@@ -43,7 +43,7 @@ sections:
       **Pre-event “Green Room”**
 
 
-      As your event begins, your Zoom Squad host will ensure all presenters are welcomed, audio levels are checked, flow is set, and everyone is ready for a great experience.
+      As your event begins, your Meeting Squad host will ensure all presenters are welcomed, audio levels are checked, flow is set, and everyone is ready for a great experience.
 
 
       **Full Event Moderation**
