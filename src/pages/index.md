@@ -29,7 +29,7 @@ sections:
     background: gray
     features:
       - title: Features
-        content: Our Zoom Squad can get you up and running quickly, helping navigate
+        content: Our Meeting Squad can get you up and running quickly, helping navigate
           Zoom's extensive capabilities, unlocking the power of innovative
           features such as Breakout Rooms, Polling, ScreenShare and
           Whiteboarding.
@@ -38,9 +38,10 @@ sections:
           - label: Learn More
             url: /features
       - title: Best Practices
-        content: Our mission is to make you look good.  We've used Zoom for hundreds of
-          online meetings, workshops and courses, and we deliver online
-          offerings that are engaging, meaningful, and insightful.
+        content: Our mission is to make you look good.  We've used Zoom and other
+          platforms for hundreds of online meetings, workshops and courses, and
+          we deliver online offerings that are engaging, meaningful, and
+          insightful.
         image: images/feature2.png
         actions:
           - label: Learn More
