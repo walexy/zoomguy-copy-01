@@ -18,17 +18,18 @@ sections:
     subtitle: "Are you struggling to keep your employees, volunteers, and supporters
       connected to your mission?  Let our team of experts help navigate virtual
       events. Remember, your reputation is your most valuable asset.  And it
-      only takes one poorly-run meeting to lose a client or donor. Zoom is a
-      simple, powerful, cost-effective way to host online meetings, events and
-      webinars. Various pricing options are available, including a free account
-      that supports unlimited one-to-one meetings. Whether you're an
-      entrepreneur, small business owner, board chair, or a member of a large
-      organization, we're happy to help you get up and running with Zoom. Our
-      services include training and consulting on:"
+      only takes one poorly-run meeting to lose a client or donor. Virtual
+      meeting platforms like Zoom are simple, powerful, cost-effective ways to
+      host online meetings, events and webinars. Various pricing options are
+      available, including a free account that supports unlimited one-to-one
+      meetings. Whether you're an entrepreneur, small business owner, board
+      chair, or a member of a large organization, we're happy to help you get up
+      and running with Zoom and other platforms. Our services include training
+      and consulting on:"
     background: gray
     features:
       - title: Features
-        content: Our Zoom Squad can get you up and running quickly, helping navigate
+        content: Our Meeting Squad can get you up and running quickly, helping navigate
           Zoom's extensive capabilities, unlocking the power of innovative
           features such as Breakout Rooms, Polling, ScreenShare and
           Whiteboarding.
@@ -37,9 +38,10 @@ sections:
           - label: Learn More
             url: /features
       - title: Best Practices
-        content: Our mission is to make you look good.  We've used Zoom for hundreds of
-          online meetings, workshops and courses, and we deliver online
-          offerings that are engaging, meaningful, and insightful.
+        content: Our mission is to make you look good.  We've used Zoom and other
+          platforms for hundreds of online meetings, workshops and courses, and
+          we deliver online offerings that are engaging, meaningful, and
+          insightful.
         image: images/feature2.png
         actions:
           - label: Learn More
