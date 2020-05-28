@@ -18,13 +18,14 @@ sections:
     subtitle: "Are you struggling to keep your employees, volunteers, and supporters
       connected to your mission?  Let our team of experts help navigate virtual
       events. Remember, your reputation is your most valuable asset.  And it
-      only takes one poorly-run meeting to lose a client or donor. Zoom is a
-      simple, powerful, cost-effective way to host online meetings, events and
-      webinars. Various pricing options are available, including a free account
-      that supports unlimited one-to-one meetings. Whether you're an
-      entrepreneur, small business owner, board chair, or a member of a large
-      organization, we're happy to help you get up and running with Zoom and
-      other platforms. Our services include training and consulting on:"
+      only takes one poorly-run meeting to lose a client or donor. Virtual
+      meeting platforms like Zoom are simple, powerful, cost-effective ways to
+      host online meetings, events and webinars. Various pricing options are
+      available, including a free account that supports unlimited one-to-one
+      meetings. Whether you're an entrepreneur, small business owner, board
+      chair, or a member of a large organization, we're happy to help you get up
+      and running with Zoom and other platforms. Our services include training
+      and consulting on:"
     background: gray
     features:
       - title: Features
