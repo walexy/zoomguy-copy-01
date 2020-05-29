@@ -1,6 +1,6 @@
 {
   "header": {
-    "title": "Zoom Squad",
+    "title": "The Meeting Squad",
     "logo_img": "/images/MeetingSquad Logo.svg",
     "has_nav": true,
     "nav_links": [
@@ -64,7 +64,7 @@
     "tagline": "Transform your meetings and events ",
     "logo_img": "/images/MeetingSquad Logo.svg",
     "has_social": false,
-    "content": "&copy; ZoomSquad. All rights reserved.",
+    "content": "&copy; The Meeting Squad. All rights reserved.",
     "links": [
       {
         "label": "Designed in Texas",
