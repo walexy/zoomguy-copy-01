@@ -72,14 +72,14 @@ sections:
       - author: Well-known International Nonprofit
         avatar: images/review2.jpg
         content: We were terrified to plan our first virtual international conference,
-          but he Zoom Squad has come to our rescue, helping with plenary
+          but the Meeting Squad has come to our rescue, helping with plenary
           sessions, elected officials, and breakout rooms.  They have been a
           God-send.
       - author: Local Arts-related Nonprofit
         avatar: images/review3.jpg
         content: Our organization faced certain bankruptcy without our annual
-          fundraiser.  The Zoom Squad somehow created a live auction that raised
-          $50,000 for our cause!
+          fundraiser.  The Meeting Squad somehow created a live auction that
+          raised $50,000 for our cause!
   - type: section_cta
     title: This is the New Normal
     section_id: call-to-action
