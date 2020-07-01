@@ -1,6 +1,6 @@
 ---
 title: Top “Pre-Event” Tips for Hosting an Online Event
-date: 2020-05-05T15:30:35.440Z
+date: 2020-06-05T05:00:00.000Z
 excerpt: ""
 image: /images/conversation.svg
 thumb_image: /images/converation-feed.png
