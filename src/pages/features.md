@@ -25,7 +25,7 @@ sections:
       **Meeting planning**
 
 
-      We consult with you to better understand your company culture and intended takeaways to build an appropriate content and flow. 
+      We consult with you to better understand your company culture and key takeaways in order to build appropriate content and flow. 
 
 
       **Live event support**
