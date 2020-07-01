@@ -48,14 +48,6 @@ sections:
         content: Bill Alexy is a founding principal of Alexy 19, a design and
           engineering firm that focuses its work on collaborating across a
           spectrum of talents in industry and the service space.
-      - member: Jennifer Pierce, Ph.D.
-        content: Jennifer Pierce, Ph.D. is an educator, trainer, and artistic director
-          with expertise in cognitive science, dramaturgy, and storytelling. In
-          addition to teaching media and performance studies in higher ed, she
-          has supported the C-suite in the Fortune 500, providing media and
-          communication consultation as well as guiding executives in turning
-          social data into business intelligence.
-        avatar: /images/pierce.jpg
     title: About Us
     subtitle: Meet our world class team
     tagline: We know virtual platforms (especially Zoom) inside-out, having used
