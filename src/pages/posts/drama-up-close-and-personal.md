@@ -1,7 +1,7 @@
 ---
 title: Drama, Up Close and Personal
 subtitle: How teaching online brings more intimacy and opportunity to students
-date: 2020-04-06T05:00:00.000Z
+date: 2020-04-07T05:00:00.000Z
 excerpt: The intimacy of the format is surprising
 image: /images/citizen-kane.jpg
 thumb_image: /images/citizenkane_rosebud.jpg
