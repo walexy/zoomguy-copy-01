@@ -1,6 +1,6 @@
 ---
 title: Five Easy Tips to Prevent Zoom Bombing
-date: 2020-05-07T14:10:25.468Z
+date: 2020-06-16T14:10:25.468Z
 image: /images/spyvsspyvszoom.png
 fb_cover_image: /images/Spy-vs-Spy-Vs-Zoom-Cover-fbCover.png
 thumb_image: /images/the-bomb.png
