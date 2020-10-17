@@ -66,15 +66,17 @@ sections:
     reviews:
       - author: Rotary Club
         avatar: images/review1.jpg
-        content: We were at a standstill.  Couldn't vote on new members.  Club morale
-          was low.  Since we started virtual meetings, our meeting attendance
-          has doubled and membership has actually increased!
-      - author: Well-known International Nonprofit
+        content: "The Meeting Squad has helped our district's 100+ Rotary Clubs
+          understand how to navigate virtual meetings.  We were at a
+          standstill.  Couldn't vote on new members.  Club morale was
+          declining.  Using their tips, tricks, and expertise, we have raise the
+          bar across the board.  "
+      - author: Producer for Masterpiece Theater
         avatar: images/review2.jpg
-        content: We were terrified to plan our first virtual international conference,
-          but the Meeting Squad has come to our rescue, helping with plenary
-          sessions, elected officials, and breakout rooms.  They have been a
-          God-send.
+        content: Thanks to you both for the stellar execution of materials during the
+          lecture. It all went off without a hitch. I was very pleased with the
+          quality of video on my end. The audience seemed quite emotionally
+          engaged, so it must’ve played well for them too. Bravo!
       - author: Local Arts-related Nonprofit
         avatar: images/review3.jpg
         content: Our organization faced certain bankruptcy without our annual
