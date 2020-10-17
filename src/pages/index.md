@@ -64,7 +64,7 @@ sections:
     subtitle: Check out what a few of our clients are saying.
     background: white
     reviews:
-      - author: One of the largest social service organizations in the world
+      - author: Rotary Club
         avatar: images/review1.jpg
         content: We were at a standstill.  Couldn't vote on new members.  Club morale
           was low.  Since we started virtual meetings, our meeting attendance
