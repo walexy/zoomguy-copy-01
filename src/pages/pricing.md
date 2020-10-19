@@ -53,22 +53,15 @@ sections:
           - label: Order Now
             url: /contact
       - title: Platinum Production
-        price: $3995
-        details: >-
-          Up to 500 attendees We’ll help set up, rehearse, and execute your
-          event.
-
+        price: $4000+
+        details: |-
+          500+ attendees We’ll help set up, rehearse, and execute your event.
 
           * Security Analysis (60 minutes)
-
           * Meeting planning (60 minutes)  
-
           * Live event support (60 minutes)  
-
           * Virtual Meeting Rehearsal (60 minutes)  
-
           * Pre-event “Green Room” (30 minutes)  
-
           * Full event moderation (up to 2 hrs)
         actions:
           - label: Order Now
