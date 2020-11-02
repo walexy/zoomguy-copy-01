@@ -83,9 +83,14 @@
         "url": "/blog"
       },
       {
-        "new_window": true,
+        "new_window": false,
         "label": "Pricing",
         "url": "/pricing"
+      },
+      {
+        "label": "Tell us about your event",
+        "url": "/your-event",
+        "new_window": false
       },
       {
         "label": "Contact",

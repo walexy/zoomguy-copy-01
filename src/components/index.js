@@ -7,6 +7,7 @@ import SectionContent from './SectionContent';
 import SectionCta from './SectionCta';
 import SectionFaq from './SectionFaq';
 import SectionFeatures from './SectionFeatures';
+import SectionEventform from './SectionEventform';
 import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
@@ -30,6 +31,7 @@ export {
     SectionPricing,
     SectionReviews,
     SectionTeam,
+    SectionEventform,
     SubscribeForm,
     Layout
 };
@@ -49,6 +51,7 @@ export default {
     SectionPricing,
     SectionReviews,
     SectionTeam,
+    SectionEventform,
     SubscribeForm,
     Layout
 };
