@@ -8,7 +8,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Basic Production
-        price: $995
+        price: $2500
         details: >-
           Up to 100 attendees
 
@@ -31,7 +31,7 @@ sections:
           - label: Order Now
             url: /contact
       - title: Premiere Production
-        price: $1995
+        price: $4000
         details: >-
           Up to 500 attendees
 
@@ -53,7 +53,7 @@ sections:
           - label: Order Now
             url: /contact
       - title: Platinum Production
-        price: $4000+
+        price: $5500+
         details: |-
           500+ attendees We’ll help set up, rehearse, and execute your event.
 
