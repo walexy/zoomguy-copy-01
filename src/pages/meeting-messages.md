@@ -2,7 +2,8 @@
 title: Meeting Messages
 sections:
   - type: section_hero
-    content: Your card is your voice.
+    content: Your card is your voice. Printed on a strudy stock with a durable matte
+      finish these cards will make an impression.
     image: /images/img_0167.jpg
     title: Meeting Messages
   - type: section_content
