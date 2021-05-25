@@ -255,7 +255,7 @@ sections:
           - And the ever popular, You're on Mute
         image: /images/img_0187-2.jpg
       - title: Double Sided
-        image: /images/like-button-back.png
+        image: /images/the-meeting-squad-like-front-back.jpg
   - type: section_content
     background: gray
     content: >-
