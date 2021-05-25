@@ -6,6 +6,21 @@ sections:
       finish these cards will make an impression.
     image: /images/img_0167.jpg
     title: Meeting Messages
+  - type: section_features
+    background: gray
+    features:
+      - title: 7 cards to mix and match
+        content: |-
+          - Yes
+          - No
+          - I Have a Suggestion
+          - I Have a Question
+          - Thank You
+          - Emote a Like, Dislike or Meh with the Thumbs Up card
+          - And the ever popular, You're on Mute
+        image: /images/img_0187-2.jpg
+      - title: Double Sided
+        image: /images/like-button-back.png
   - type: section_content
     background: gray
     content: >-
@@ -232,24 +247,5 @@ sections:
       /*]]>*/
 
       </script>`
-  - type: section_features
-    background: gray
-    features:
-      - title: 7 cards to mix and match
-        content: |-
-          * Yes
-
-            No
-
-            I Have a Suggestion
-
-            I Have a Question
-
-            Thank You
-
-            Emote a Like, Dislike or Meh with the Thumbs Up card
-
-            And the ever popular, You're on Mute
-        image: /images/img_0187-2.jpg
 template: landing
 ---
