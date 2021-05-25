@@ -96,6 +96,12 @@
         "label": "Contact",
         "url": "/contact",
         "new_window": false
+      },
+      {
+        "new_window": false,
+        "label": "Meeting Messages",
+        "url": "/meeting-messages",
+        "primary": true
       }
     ],
     "has_nav": true
