@@ -2,8 +2,9 @@
 title: Meeting Messages
 sections:
   - type: section_hero
-    content: ""
+    content: Your card is your voice.
     image: /images/img_0167.jpg
+    title: Meeting Messages
   - type: section_content
     background: gray
     content: >-
