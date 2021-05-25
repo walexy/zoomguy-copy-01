@@ -1,5 +1,5 @@
 ---
-title: Meeting messages
+title: Meeting Messages
 sections:
   - type: section_hero
     content: ""
