@@ -7,7 +7,7 @@ sections:
   - type: section_content
     background: gray
     content: >-
-      `<div id='product-component-1621976426288'></div>
+      `<div id='product-component-1621977026843'></div>
 
       <script type="text/javascript">
 
@@ -39,23 +39,22 @@ sections:
           ShopifyBuy.UI.onReady(client).then(function (ui) {
             ui.createComponent('product', {
               id: '6789820678299',
-              node: document.getElementById('product-component-1621976426288'),
+              node: document.getElementById('product-component-1621977026843'),
               moneyFormat: '%24%7B%7Bamount%7D%7D',
               options: {
         "product": {
           "styles": {
             "product": {
               "@media (min-width: 601px)": {
-                "max-width": "calc(25% - 20px)",
-                "margin-left": "20px",
+                "max-width": "100%",
+                "margin-left": "0",
                 "margin-bottom": "50px"
               },
-              "carousel-button": {
-                "display": "none"
-              }
+              "text-align": "left"
             },
             "title": {
-              "font-family": "Montserrat, sans-serif"
+              "font-family": "Montserrat, sans-serif",
+              "font-size": "26px"
             },
             "button": {
               "font-family": "Lato, sans-serif",
@@ -76,24 +75,27 @@ sections:
               "padding-bottom": "16px"
             },
             "price": {
-              "font-family": "Montserrat, sans-serif"
+              "font-family": "Montserrat, sans-serif",
+              "font-size": "18px"
             },
             "compareAt": {
-              "font-family": "Montserrat, sans-serif"
+              "font-family": "Montserrat, sans-serif",
+              "font-size": "15.299999999999999px"
             },
             "unitPrice": {
-              "font-family": "Montserrat, sans-serif"
+              "font-family": "Montserrat, sans-serif",
+              "font-size": "15.299999999999999px"
             }
           },
-          "buttonDestination": "modal",
+          "layout": "horizontal",
           "contents": {
             "img": false,
             "imgWithCarousel": true,
-            "options": false
+            "description": true
           },
-          "width": "580px",
+          "width": "100%",
           "text": {
-            "button": "View product"
+            "button": "Add to cart"
           },
           "googleFonts": [
             "Montserrat",
