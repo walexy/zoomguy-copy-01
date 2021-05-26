@@ -7,8 +7,7 @@ sections:
       finish these cards will make an impression.
 
 
-      `<div id='product-component-1621979445098'></div>
-
+      `<div id='product-component-1622052391459'></div>
 
       <script type="text/javascript">
 
@@ -40,7 +39,7 @@ sections:
           ShopifyBuy.UI.onReady(client).then(function (ui) {
             ui.createComponent('product', {
               id: '6789820678299',
-              node: document.getElementById('product-component-1621979445098'),
+              node: document.getElementById('product-component-1622052391459'),
               moneyFormat: '%24%7B%7Bamount%7D%7D',
               options: {
         "product": {
@@ -88,8 +87,6 @@ sections:
           "buttonDestination": "checkout",
           "contents": {
             "img": false,
-            "button": false,
-            "buttonWithQuantity": true,
             "title": false,
             "price": false
           },
