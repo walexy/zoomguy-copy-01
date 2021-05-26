@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
   - type: section_content
-    background: gray
+    background: white
     image: /images/img_0187-2.jpg
     title: Introducing Meeting Messages
     content: Dont just engage your crew. Let them engage you with the Meeting
