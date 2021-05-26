@@ -241,6 +241,7 @@ sections:
       </script>`
     image: /images/img_0167.jpg
     title: Meeting Messages
+    actions: []
   - type: section_features
     background: gray
     features:
