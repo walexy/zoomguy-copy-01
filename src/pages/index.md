@@ -12,6 +12,9 @@ sections:
     actions:
       - label: Learn More
         url: /features
+  - type: section_content
+    background: gray
+    image: /images/img_0187-2.jpg
   - type: section_cta
     title: Introducing Meeting Messages
     subtitle: Create an engaging meeting by bringing the real world into your online
