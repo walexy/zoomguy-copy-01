@@ -16,7 +16,7 @@ sections:
     background: white
     image: /images/img_0187-2.jpg
     title: Introducing Meeting Messages
-    content: Dont just engage your crew. Let them engage you with the Meeting
+    content: Don’t just engage your crew. Let them engage you with the Meeting
       Squad’s Meeting Messages, the fun way to express yourself when you’re on
       camera.
     actions:
