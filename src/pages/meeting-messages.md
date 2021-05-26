@@ -244,7 +244,7 @@ sections:
     actions: []
     section_id: ""
   - type: section_features
-    background: gray
+    background: white
     features:
       - title: 7 cards to mix and match
         content: |-
