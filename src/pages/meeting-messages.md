@@ -7,10 +7,10 @@ sections:
       finish these cards will make an impression.
 
 
-      `<div id='product-component-1621979445098'></div>`
+      `<div id='product-component-1621979445098'></div>
 
 
-      `<script type="text/javascript">
+      <script type="text/javascript">
 
       /*<![CDATA[*/
 
@@ -239,7 +239,7 @@ sections:
 
       /*]]>*/
 
-      </script`>
+      </script>`
     image: /images/img_0167.jpg
     title: Meeting Messages
     actions: []
