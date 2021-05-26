@@ -15,15 +15,14 @@ sections:
   - type: section_content
     background: gray
     image: /images/img_0187-2.jpg
-  - type: section_cta
     title: Introducing Meeting Messages
-    subtitle: Create an engaging meeting by bringing the real world into your online
-      meetings
+    content: Dont just engage your crew. Let them engage you with the Meeting
+      Squad’s Meeting Messages, the fun way to express yourself when you’re on
+      camera.
     actions:
-      - new_window: false
+      - new_window: true
         label: Be the first to see these remarkable cards
-        url: /meeting-messages
-        primary: true
+        url: meeting-messages
   - type: section_features
     title: Services
     section_id: features
