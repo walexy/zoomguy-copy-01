@@ -239,7 +239,7 @@ sections:
 
       /*]]>*/
 
-      </script>```
+      </script>`
     image: /images/img_0167.jpg
     title: Meeting Messages
     actions: []
