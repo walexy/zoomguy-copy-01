@@ -3,11 +3,13 @@ title: Meeting Messages
 sections:
   - type: section_hero
     content: >-
-      Your card is your voice. Printed on a strudy stock with a durable matte
-      finish these cards will make an impression.
+      Your card is your voice. Printed on a sturdy stock with a durable matte
+      finish, these cards will make an impression or bring a smile to your next
+      virtual meeting or event.
 
 
       `<div id='product-component-1622052659298'></div>
+
 
       <script type="text/javascript">
 
