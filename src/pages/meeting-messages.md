@@ -248,7 +248,7 @@ sections:
   - type: section_features
     background: white
     features:
-      - title: 7 cards to mix and match
+      - title: 7 Unique and Useful Cards
         content: |-
           ###### Yes
 
@@ -260,9 +260,9 @@ sections:
 
           ###### Thank You
 
-          ###### Emote a Like, Dislike or Meh with the Thumbs Up card
+          ###### Thumbs Up, Thumbs Down, or So-So (all on the same card)
 
-          ###### And the ever popular, You're on Mute
+          ###### You're on Mute
         image: /images/img_0187-2.jpg
       - title: Double Sided
         image: /images/the-meeting-squad-like-front-back.jpg
